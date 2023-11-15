@@ -21,3 +21,9 @@ Visual Basic for Applications (VBA) is part of Microsoft Corporation's (NASDAQ: 
     
     5. VBA leverages objects, variables, properties, projects, logical operators, and modules to make statements recognizable by debugging processes.
 
+VBA is an event-driven tool, which means that you can use it to tell the computer to initiate an action or string of actions. To do this, you build custom macros—short for macroinstructions—by typing commands into an editing module.
+
+A macro is essentially a sequence of characters whose input results in another sequence of characters (its output) that accomplishes specific computing tasks. You do not need to purchase the VBA software because VBA is the version of Visual Basic that ships with Microsoft Office.
+
+VBA is not a stand-alone program. Instead, it allows users to manipulate graphical user interface (GUI) features such as toolbars and menus, dialogue boxes, and forms. You may use VBA to create user-defined functions (UDFs), access Windows application programming interfaces (APIs), and automate specific computer processes and calculations.
+
