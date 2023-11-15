@@ -11,13 +11,13 @@ For example, you can create a macro that searches through all of the data in an 
 
 Visual Basic for Applications (VBA) is part of Microsoft Corporation's (NASDAQ: MSFT) legacy software Visual Basic. VBA is used to write programs for the Windows operating system and runs as an internal programming language in Microsoft Office (MS Office, Office) applications such as Access, Excel, PowerPoint, Publisher, Word, and Visio. VBA allows users to customize beyond what is normally available with MS Office host applications.
 
-Visual Basic for Applications is a computer programming language developed and owned by Microsoft.
-
-With VBA you can create macros to automate repetitive word- and data-processing functions, and generate custom forms, graphs, and reports.
-
-VBA functions within MS Office applications; it is not a stand-alone product.
-
-VBA is accessed in Excel by hitting Alt + F11 while having an Excel workbook present.
-
-VBA leverages objects, variables, properties, projects, logical operators, and modules to make statements recognizable by debugging processes.
+    1. Visual Basic for Applications is a computer programming language developed and owned by Microsoft.
+    
+    2. With VBA you can create macros to automate repetitive word- and data-processing functions, and generate custom forms, graphs, and reports.
+    
+    3. VBA functions within MS Office applications; it is not a stand-alone product.
+    
+    4. VBA is accessed in Excel by hitting Alt + F11 while having an Excel workbook present.
+    
+    5. VBA leverages objects, variables, properties, projects, logical operators, and modules to make statements recognizable by debugging processes.
 
